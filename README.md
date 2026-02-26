@@ -238,11 +238,6 @@ Dataset: **WESAD** (Schmidt et al., 2018) — [UCI ML Repository](https://archiv
 
 ---
 
-## 📜 License
-
-MIT License — Free for commercial use with attribution.
-
----
 
 **Built by a builder.** Questions? Open an issue or email [your-email@example.com].
 
