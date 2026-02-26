@@ -30,7 +30,7 @@ data/
 *.csv
 *.pkl
 *.h5
-
+*.md
 # Models
 saved_models/
 
@@ -40,7 +40,7 @@ saved_models/
 *.swp
 *.swo
 *~
-
+make_presentation.py
 # OS
 .DS_Store
 Thumbs.db
