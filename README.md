@@ -239,5 +239,5 @@ Dataset: **WESAD** (Schmidt et al., 2018) — [UCI ML Repository](https://archiv
 ---
 
 
-**Built by a builder.** Questions? Open an issue or email [your-email@example.com].
+**Built by a builder.** Questions? Open an issue or email [shivamchahar300@gmail.com].
 
